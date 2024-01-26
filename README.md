@@ -1,4 +1,5 @@
 # Menu 
+## Redux small menu with filters and cart
 
 I have made this project to learn Redux React by building applications
 
